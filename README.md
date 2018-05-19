@@ -19,7 +19,8 @@ https://github.com/nodejs/worker/issues/4
 ### List of Parallel JS Projects
 https://github.com/SyntheticSemantics/List-of-Parallel-JS-Projects 
 
-### IPC Communication Performance https://60devs.com/performance-of-inter-process-communications-in-nodejs.html 
+### IPC Communication Performance 
+https://60devs.com/performance-of-inter-process-communications-in-nodejs.html 
 
 ### ESM Shared-Memory Parallelism in Node.js 
 https://vimeo.com/229686658
